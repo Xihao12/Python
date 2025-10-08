@@ -1,7 +1,4 @@
 # Python
-# Example headings
-
-## Sample Section
 
 ## This'll be a _Helpful_ Section About the Python!
 This Repository includes Basic Grammar of Python, Basic ML 
